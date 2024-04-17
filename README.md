@@ -15,15 +15,21 @@ passwords.txt, the SSID in user.txt, and the IP address is written in ipaddr.txt
 text files are used, and so is the passwords list. Once done, all the text files
 are wiped.
 
-Tutorial for making the password list:
+Tutorial:
 
-Step 1. do Research
+Step 1. Download File
+
+![Screenshot (8)](https://github.com/Tiamiscool/BrutePy/assets/107582387/b2b1cf33-3904-4bec-9519-ee4e605c4712)
+
+Step 2. do Research
 
 ![Screenshot (4)](https://github.com/Tiamiscool/BrutePy/assets/107582387/fb0ba60a-83cc-4aaa-8670-ceb06c06d54a)
 
-Step 2. Launch app
+Step 3. Launch app
+
 ![Screenshot (7)](https://github.com/Tiamiscool/BrutePy/assets/107582387/0313acd9-4276-4597-af99-3dad5b6949de)
 
-step 3. Enter 9s until the maximum digit
+Step 4. Enter 9s until the maximum digit
+
 ![Screenshot (6)](https://github.com/Tiamiscool/BrutePy/assets/107582387/e15d41e8-7f42-4caa-b5fa-61f3c9603eb6)
 
