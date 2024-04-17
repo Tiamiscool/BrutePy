@@ -18,4 +18,11 @@ are wiped.
 Tutorial for making the password list:
 
 Step 1. do Research
-![Screenshot (4)](https://github.com/Tiamiscool/BrutePy/assets/107582387/688fe1b1-1c8b-45ba-8087-70edd7ffe94f)
+![Screenshot (4)](https://github.com/Tiamiscool/BrutePy/assets/107582387/fb0ba60a-83cc-4aaa-8670-ceb06c06d54a)
+
+Step 2. Launch app
+![Screenshot (7)](https://github.com/Tiamiscool/BrutePy/assets/107582387/0313acd9-4276-4597-af99-3dad5b6949de)
+
+step 3. Enter 9s until the maximum digit
+![Screenshot (6)](https://github.com/Tiamiscool/BrutePy/assets/107582387/e15d41e8-7f42-4caa-b5fa-61f3c9603eb6)
+
