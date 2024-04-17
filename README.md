@@ -18,6 +18,7 @@ are wiped.
 Tutorial for making the password list:
 
 Step 1. do Research
+
 ![Screenshot (4)](https://github.com/Tiamiscool/BrutePy/assets/107582387/fb0ba60a-83cc-4aaa-8670-ceb06c06d54a)
 
 Step 2. Launch app
