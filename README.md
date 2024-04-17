@@ -39,11 +39,10 @@ Step 5. Enter y, then enter the target's SSID and IP address
 
 Step 6. Wait until the script ends
 
-it'll either end in "Password not found :("
+it'll either end in 
 ![Screenshot (10)](https://github.com/Tiamiscool/BrutePy/assets/107582387/124b2bf7-ae4b-43f6-9ce8-4b33b5aad6fb)
 
-or it'll end in "Password Found: <Password>"
-(Example)
+or it'll end in (Example)
 ![Screenshot (11)](https://github.com/Tiamiscool/BrutePy/assets/107582387/4709d9af-9c6d-4132-8b16-4470804b5a0f)
 
 
