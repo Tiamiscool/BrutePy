@@ -33,3 +33,22 @@ Step 4. Enter 9s until the maximum digit
 
 ![Screenshot (6)](https://github.com/Tiamiscool/BrutePy/assets/107582387/e15d41e8-7f42-4caa-b5fa-61f3c9603eb6)
 
+Step 5. Enter y, then enter the target's SSID and IP address
+(Example)
+![Screenshot (9)](https://github.com/Tiamiscool/BrutePy/assets/107582387/bbbe4034-691c-45fa-84ce-398a4d1ac85c)
+
+Step 6. Wait until the script ends
+
+it'll either end in "Password not found :("
+![Screenshot (10)](https://github.com/Tiamiscool/BrutePy/assets/107582387/124b2bf7-ae4b-43f6-9ce8-4b33b5aad6fb)
+
+or it'll end in "Password Found: <Password>"
+(Example)
+![Screenshot (11)](https://github.com/Tiamiscool/BrutePy/assets/107582387/4709d9af-9c6d-4132-8b16-4470804b5a0f)
+
+
+
+
+
+
+
